@@ -1,0 +1,42 @@
+.oxmod-oxm-list-wx ul,
+.oxmod-oxm-list-wx li,
+.oxmod-oxm-list-wx p,
+.oxmod-oxm-list-wx h3 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.oxmod-oxm-list-wx li {
+  padding: 5px 5px 5px 80px;
+  min-height: 60px;
+}
+.oxmod-oxm-list-wx a {
+  color: #333;
+  text-decoration: none;
+}
+.oxmod-oxm-list-wx h3 {
+  padding: 0;
+  margin: 5px 0;
+}
+.oxmod-oxm-list-wx p {
+  color: #999;
+}
+.oxmod-oxm-list-wx .img-box {
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin-left: -70px;
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.oxmod-oxm-list-wx .right-time {
+  float: right;
+  font-weight: 400;
+  font-size: 12px;
+}
+.oxmod-oxm-list-wx .right-status {
+  float: right;
+  font-weight: 400;
+  font-size: 12px;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<root>
+  <env>
+    <domain>local</domain>
+  </env>
+  <data>
+    <list-wx><i><img>//momofox.com/img/fox.jpg</img><href>//momofox.com/img/fox.jpg</href><title>watch</title><desc>laptop</desc><time>light-weight notebook</time><status>3005</status><is-new>false</is-new></i><i><img>//momofox.com/img/fox.jpg</img><href>//momofox.com/img/fox.jpg</href><title>notebook</title><desc>screen</desc><time>good car</time><status>77080</status><is-new>false</is-new></i><i><img>//momofox.com/img/fox.jpg</img><href>//momofox.com/img/fox.jpg</href><title>tough screen</title><desc>powerful car</desc><time>screen</time><status>8808</status><is-new>false</is-new></i></list-wx>
+  </data>
+
+</root>

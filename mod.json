@@ -1,0 +1,6 @@
+{
+  "name": "oxm-list-wx",
+  "version": "1.0.0",
+  "apiDependencies": ["list-wx"]
+}
+
